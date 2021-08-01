@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a3147ba112aeedb6369c1cd9f700b393\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f803e36faa8d5538d7ac0f33ed118af6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7d7a3cbae4144ea7dc848b5633049df\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7465f3cbcaa4bd561491a5c37f8e52d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\234b263ac4da580331de58f99d9469f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c356a05e109b8c1988778c285ea26d37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7c4ea6e439a9fbef7e9a992cf92dee08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ebea54e18f0173d18c71447882b6ef73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\95c24a8869f7aee774ec6cacf1beb1dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c35e90f4dd7c63a48afb32e6e05c27bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\09d491e94088be74f622c6a83f4067ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f43457ab300e67eb041fa75f63bda489\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b6c92f6ec56326555761e313593d9654\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f1782d144aa9a59c39d0e1e91ca3901\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\795a7c1dacf552f0f184b4c34fc52a39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3da49b2dedc5d4b73b7876e70b4e7a7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\891e498c63213f0f1b3b048d88087297\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:21:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7d7a3cbae4144ea7dc848b5633049df\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7d7a3cbae4144ea7dc848b5633049df\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a3147ba112aeedb6369c1cd9f700b393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a3147ba112aeedb6369c1cd9f700b393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f803e36faa8d5538d7ac0f33ed118af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f803e36faa8d5538d7ac0f33ed118af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7d7a3cbae4144ea7dc848b5633049df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7d7a3cbae4144ea7dc848b5633049df\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7465f3cbcaa4bd561491a5c37f8e52d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7465f3cbcaa4bd561491a5c37f8e52d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\234b263ac4da580331de58f99d9469f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\234b263ac4da580331de58f99d9469f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c356a05e109b8c1988778c285ea26d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c356a05e109b8c1988778c285ea26d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7c4ea6e439a9fbef7e9a992cf92dee08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7c4ea6e439a9fbef7e9a992cf92dee08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ebea54e18f0173d18c71447882b6ef73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ebea54e18f0173d18c71447882b6ef73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\95c24a8869f7aee774ec6cacf1beb1dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\95c24a8869f7aee774ec6cacf1beb1dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c35e90f4dd7c63a48afb32e6e05c27bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c35e90f4dd7c63a48afb32e6e05c27bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\09d491e94088be74f622c6a83f4067ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\09d491e94088be74f622c6a83f4067ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f43457ab300e67eb041fa75f63bda489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f43457ab300e67eb041fa75f63bda489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b6c92f6ec56326555761e313593d9654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b6c92f6ec56326555761e313593d9654\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f1782d144aa9a59c39d0e1e91ca3901\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6f1782d144aa9a59c39d0e1e91ca3901\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\795a7c1dacf552f0f184b4c34fc52a39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\795a7c1dacf552f0f184b4c34fc52a39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3da49b2dedc5d4b73b7876e70b4e7a7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3da49b2dedc5d4b73b7876e70b4e7a7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\891e498c63213f0f1b3b048d88087297\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Fikri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\891e498c63213f0f1b3b048d88087297\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fikri\AndroidStudioProjects\RecyclerViewEspresso\app\src\main\AndroidManifest.xml
